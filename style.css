@@ -58,7 +58,7 @@ li {
   background: white;
   padding: 30px;
   border-radius: 4px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   text-align: center;
 }
 
@@ -70,7 +70,7 @@ li {
 .btn-purple {
   color: black;
   background-color: #FEF955;
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   padding: 8px 24px;
   border-radius: 6px;
   margin: 8px;
@@ -79,7 +79,7 @@ li {
 .btn-purple:hover {
   color: #FEF955;
   background-color: black;
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   padding: 8px 24px;
   border-radius: 6px;
   margin: 8px;
